@@ -14,7 +14,7 @@ If you are as excited as I am, then you probably have been expecting the arrival
 
 This has put a lot of people in fear that their job will be replaced by AI very soon. OpenAI also announced that they were working on another version of AI known as GPT-4 and it would have over 100,000,000,000(100 billion) parameters. This would mean that it would have more than 10 times the current capacity of GPT-3.
 
-Less than 48hours ago, OpenAi finally launched GPT-4 and this post will give you 10 awesome abilities of GPT-4:
+Less than 48hours ago, OpenAi finally launched GPT-4 and this post will give you 5 awesome abilities of GPT-4:
 
 1. Generate Codes: unlike GPT-3, GPT-4 can generate more larger and accurate codes and can handle 25K input words. You can just simply tell it "Generate a python code for todo app" and it will. Not only that, but it can also be your best debug partner.
     
